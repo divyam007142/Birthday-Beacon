@@ -1,8 +1,4 @@
-Perfect idea 👌
-Below is a **clean, professional, and beautiful `README.md`** you can **directly copy–paste** into your GitHub repo.
-I’ve written it exactly like real-world production projects, with sections, emojis, and screenshot support.
 
----
 
 ```md
 # 🎉 Birthday Beacon
@@ -71,6 +67,7 @@ A modern, full-stack **Birthday Reminder Web App** that helps you remember impor
 
 ```
 
+``` bash
 Birthday-Beacon/
 ├── client/            # React frontend
 │   ├── src/
@@ -81,6 +78,7 @@ Birthday-Beacon/
 ├── dist/              # Production build output
 ├── package.json
 └── tsconfig.json
+```
 
 ````
 
