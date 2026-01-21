@@ -82,7 +82,7 @@ Birthday-Beacon/
 └── tsconfig.json
 ```
 
-````
+
 
 ---
 
@@ -95,11 +95,11 @@ This project is deployed as a **single Web Service** on **Render**, where:
 - SPA routing works on refresh (`/settings`, `/login`, etc.)
 
 ### Render Configuration
-```bash
-Build Command: npm install && npm run build
-Start Command: npm start
-Environment:   Node
-````
+
+Build Command: ```npm install && npm run build```
+Start Command: ```npm start```
+Environment:  ```Node```
+
 
 ---
 
