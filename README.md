@@ -1,6 +1,6 @@
 
 
-```md
+
 # 🎉 Birthday Beacon
 
 A modern, full-stack **Birthday Reminder Web App** that helps you remember important birthdays and special days — built with a clean UI, smooth UX, and a production-ready backend.
@@ -24,7 +24,7 @@ A modern, full-stack **Birthday Reminder Web App** that helps you remember impor
 
 ## 🖼️ Screenshots
 
-> Add screenshots by placing images in a `screenshots/` folder and updating the paths below.
+
 
 ### 🔹 Dashboard
 ![Dashboard](screenshots/dashboard.png)
