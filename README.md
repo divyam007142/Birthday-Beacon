@@ -33,8 +33,10 @@ A modern, full-stack **Birthday Reminder Web App** that helps you remember impor
 ![Login](screenshots/login.png)
 
 ### 🔹 Calendar View
-![Calendar](screenshots/calendar.png)
+![Calendar](screenshots/calender.png)
 
+### 🔹 Calendar View
+![Special-Days](screenshots/special-days.png)
 ### 🔹 Settings Page
 ![Settings](screenshots/settings.png)
 
